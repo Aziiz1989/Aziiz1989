@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aziiz1989
 - 👀 I’m interested in Clojure and Data Science
-- 🌱 I’m currently learning Clojure 
+
 
 
 <!---
